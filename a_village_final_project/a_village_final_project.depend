@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1636957231 source:c:\users\hp\downloads\a_village_final_project\main.cpp
+	<GL/gl.h>
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+
+976645372 c:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1636963336 source:g:\a_village_final_project\main.cpp
+	<GL/gl.h>
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+
+1636963336 source:j:\a_village_final_project\main.cpp
+	<GL/gl.h>
+	<iostream>
+	<GL/glut.h>
+	<math.h>
+
